@@ -1,0 +1,27 @@
+polymorphism-
+    -( compile time / static / early binding ) polymorphism
+    -( runtime / dynamic / late binding ) polymorphism
+
+polymorphism
+    -poly -> many
+    -morphism -> forms
+
+polymorphism
+
+    -overloading
+        same name(method name, function name) different arguments(parameter types)
+    -overriding
+        same method but multiple implementations
+    - method hiding
+        parent one implementation and child another implementation
+
+
+complie time polymorphism types
+    - overloading
+    - method hiding
+
+runtime polymorphism
+    - overriding
+
+
+

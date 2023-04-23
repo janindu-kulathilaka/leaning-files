@@ -1,0 +1,19 @@
+OOP - Relationships
+
+    1. Association
+    2. Aggregation
+    3. Composition
+    4. Inheritance
+
+1. Inheritance - class Manager: public Employee {};
+                 class Doctor: public Employee {};
+                 class Teacher: public Employee {};
+
+                 A manager (is a) type of Employee.
+
+2. Association - Manager (has a) swipe card to enter the company premises.
+
+3. Aggregation - He has many workers under him.
+
+4. Composition - his salary depends on project success
+                 project success depends on a manager
