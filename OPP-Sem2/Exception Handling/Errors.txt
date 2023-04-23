@@ -1,0 +1,48 @@
+Errors
+
+    -Causes it to produce an incorrect or unexpected result
+    -Causes it to behave in unitended  ways.
+
+
+Terminologies
+
+    - A mistake in the code is called **Error**
+    - Error found by tester is called **Defect**
+    - Defect accepted by development team is called **Bug**
+    - And the program does not meet the requirements then it is **Faliure**
+
+
+Type of Errors
+
+    1. Syntax Errors - Shows by IDE
+    2. Logic Errors - BlackBox and WhiteBox (Testing Types)
+    3. Compilation Errors - Compiler shows the Error
+    4. Run time Errors - Defensive Programming
+    5. Arithmetic Errors - BlackBox and WhiteBox
+    6. Resource Errors - stress test
+    7. Interface Errors - 
+
+
+Defensive Programming
+
+1. Defensive Programming
+    - Specificaitons
+    - Modularize
+    - Conditions
+
+2. Testing/ Validation
+    - Compare
+    - "It's not working!"
+    - "How can I break my program?"
+
+3. Debugging
+    - Study events
+    - "Why is it not working?"
+    - "How can I fix my program?"
+
+
+Why Exception Handling?
+
+    - Separation of Error Handling code from Normal code
+    - Functions/Methods can handle any exceptions they choose
+    - Grouping of Error Types
